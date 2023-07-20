@@ -503,9 +503,11 @@ h2.brain {
   text-align: left;
   position: relative;
   margin-left: 28px;
+}
+
+.job-align {
   min-width: 405px;
   word-wrap: normal;
-
 }
 
 .job-align::before {
