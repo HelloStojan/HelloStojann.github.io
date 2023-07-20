@@ -499,12 +499,12 @@ h2.brain {
 }
 
 .job-align {
-  display: inline-block;
-  text-align: left;
-  position: relative;
   margin-left: 28px;
   min-width: 405px;
   word-wrap: normal;
+  display: inline-block;
+  text-align: left;
+  position: relative;
 }
 
 .job-align::before {
