@@ -502,6 +502,9 @@ h2.brain {
   display: inline-block;
   text-align: left;
   position: relative;
+  margin-left: 28px;
+  min-width: 405px;
+  word-wrap: normal;
 
 }
 
