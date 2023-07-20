@@ -438,7 +438,10 @@ text-align: center;}
 display: inline-block;
 text-align: left;
 position: relative;
-margin-left: 28px;}
+margin-left: 28px;    
+min-width: 405px;
+word-wrap: normal;
+}
 
 .job-align::before {
   content: "";
